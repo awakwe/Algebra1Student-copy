@@ -25,45 +25,72 @@ Lesson 7-1: Graphing Systems of Equations
 * Is (x, y) a solution to the system of equations?
 * Find the number of solutions to a system of equations by graphing
 
+
 ### Quiz
 
-What type of system is represented by the following equations?
+1. To solve a system of equations by graphing, you should:
 
-y = 3x - 4 y = 6x - 8
+   [(X)] Graph both equations on the same coordinate plane
+   [( )] Graph each equation on separate coordinate planes
+   [( )] Solve for one variable in both equations and then compare the solutions
+   [( )] Multiply both equations by each other
 
-\[( )\] Consistent and Dependent \[(X)\] Inconsistent \[( )\] Consistent and Independent \[\[?\]\] Check the slopes and y-intercepts of the equations \[\[?\]\] Remember that inconsistent systems have no solution
+   [[?]] You need to find the point of intersection between the two equations.
 
-Given the system of equations, how many solutions are there?
+2. Classify the following system of equations by graphing:
 
-y = 2x + 1 y = -x + 3
 
-\[( )\] 0 \[(X)\] 1 \[( )\] Infinite \[\[?\]\] Find the point of intersection (if any) \[\[?\]\] Notice that the slopes are different
 
-Solve the following system of equations by graphing:
+y = x + 2
+y = -x + 2
 
-y = 4x - 3 y = 2x + 1
 
-\[( )\] (1, 1) \[(X)\] (2, 5) \[( )\] No solution \[\[?\]\] Graph both lines and find the intersection points \[\[?\]\] Be cautious of the signs when graphing
 
-Is (3, 4) a solution to the following system of equations?
+[( )] One solution
+[(X)] No solution
+[( )] Infinitely many solutions
 
-y = x + 1 y = 2x - 2
+[[?]] The slopes of the two equations are different, but their y-intercepts are the same.
 
-\[(X)\] Yes \[( )\] No \[\[?\]\] Substitute x = 3 and y = 4 into both equations \[\[?\]\] Check if the coordinate pair satisfies both equations
+3. Solve the following word problem using graphing:
 
-A system of equations is graphed on the coordinate plane. If the lines coincide, how many solutions does the system have?
+A store sells two types of fruit: apples and oranges. The price of an apple is $1, and the price of an orange is $2. The store sells a total of 10 fruits for a total of $15. How many apples and oranges were sold?
 
-\[( )\] 0 \[( )\] 1 \[(X)\] Infinite \[\[?\]\] Understand the characteristics of coinciding lines \[\[?\]\] Remember that coinciding lines share all points in common
+[( )] 5 apples, 5 oranges
+[(X)] 5 apples, 3 oranges
+[( )] 3 apples, 7 oranges
+[( )] 7 apples, 3 oranges
 
-Solve the following word problem using graphing:
+[[?]] You can set up a system of equations and graph them to find the point of intersection.
 
-Sam sells cookies for $2 each and brownies for $3 each. She wants to earn at least $100 in a day. If she sells 40 items in total, how many of each should she sell to achieve her goal?
+4. Determine if the coordinate pair (3, 4) satisfies the following system of equations:
 
-y = number of cookies x = number of brownies
 
-y = 40 - x 2y + 3x >= 100
 
-\[( )\] 20 cookies, 20 brownies \[(X)\] 10 cookies, 30 brownies \[( )\] 30 cookies, 10 brownies \[\[?\]\] Graph both equations and find the region satisfying the inequality \[\[?\]\] Look for integer coordinates within the feasible region
+x + y = 7
+2x - y = 2
+
+
+
+[(X)] Yes
+[( )] No
+
+[[?]] Substitute the x and y values into both equations and check if they are true.
+
+5. Identify the number of solutions to the following system of equations through graphical analysis:
+
+
+
+3x - y = 1
+6x - 2y = 2
+
+
+
+[( )] One solution
+[( )] No solution
+[(X)] Infinitely many solutions
+
+[[?]] Check if the equations are multiples of each other, which would mean they represent the same line.
 
 ### Solutions Page
 
