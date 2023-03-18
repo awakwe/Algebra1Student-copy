@@ -94,51 +94,73 @@ x + y = 7
 
 ### Solutions Page
 
-1. What type of system is represented by the following equations? y = 3x - 4 y = 6x - 8
 
-Solution: Inconsistent
+1. To solve a system of equations by graphing, you should:
 
-Explanation: To classify the system, we need to compare the slopes and y-intercepts of the given equations. The first equation has a slope of 3 and a y-intercept of -4, while the second equation has a slope of 6 and a y-intercept of -8. Since the slopes are different, the lines will never intersect, and there is no solution. This makes the system inconsistent.
+   [(X)] Graph both equations on the same coordinate plane
 
-Analogy: Imagine two runners on separate tracks. If they are running at different speeds, they will never be at the same place at the same time. The same concept applies to the lines in this system of equations.
+   By graphing both equations on the same coordinate plane, you can easily identify the point of intersection, which represents the solution to the system of equations.
 
-2. Given the system of equations, how many solutions are there? y = 2x + 1 y = -x + 3
+2. Classify the following system of equations by graphing:
 
-Solution: 1
 
-Explanation: Since the slopes of the equations are different (2 and -1), the lines will intersect at a single point. This means there is one unique solution to the system of equations.
 
-Analogy: Picture two roads that cross each other at one point. At that point, the two roads meet, representing the unique solution to the system of equations.
+y = x + 2
+y = -x + 2
 
-3. Solve the following system of equations by graphing: y = 4x - 3 y = 2x + 1
 
-Solution: (2, 5)
 
-Explanation: To solve the system, we need to find the point where the two lines intersect. When we graph the equations, we can see that they intersect at the point (2, 5). This point is the unique solution to the system.
+[(X)] No solution
 
-Analogy: Imagine two laser beams originating from different locations and pointing in different directions. When the beams cross, they create a single point of intersection, just like the lines in the graph.
+The two lines are parallel and have the same y-intercept but different slopes, so they will never intersect. This means there is no solution to the system.
 
-4. Is (3, 4) a solution to the following system of equations? y = x + 1 y = 2x - 2
+3. Solve the following word problem using graphing:
 
-Solution: Yes
+A store sells two types of fruit: apples and oranges. The price of an apple is $1, and the price of an orange is $2. The store sells a total of 10 fruits for a total of $15. How many apples and oranges were sold?
 
-Explanation: To check if the coordinate pair (3, 4) is a solution to the system, substitute x = 3 and y = 4 into both equations. If the coordinate pair satisfies both equations, it is a solution. In this case, both equations are true, so (3, 4) is a solution to the system.
+[(X)] 5 apples, 3 oranges
 
-Analogy: Think of the system of equations as a combination lock, and the coordinate pair as the correct combination. If the pair opens both locks (i.e., satisfies both equations), it's the correct combination.
+We can set up a system of equations like this:
 
-5. A system of equations is graphed on the coordinate plane. If the lines coincide, how many solutions does the system have?
 
-Solution: Infinite
+a + o = 10
+1a + 2o = 15
 
-Explanation: When the lines coincide, they share all points in common. This means that every point on the line is a solution to the system of equations, and there are infinitely many solutions.
 
-Analogy: Imagine two identical, transparent sheets of paper with the same line drawn on them. If you lay one on top of the other, you won't be able to tell the difference between the lines. In this case, there are infinitely many points where the lines coincide, just like the solutions to the system.
+Graphing the equations, we find that the point of intersection is (5, 3), which means 5 apples and 3 oranges were sold.
 
-6. Solve the following word problem using graphing: Sam sells cookies for $2 each and brownies for $3 each. She wants to earn at least $100 in a day. If she sells 40 items in total, how many of each should she sell to achieve her goal?
+4. Determine if the coordinate pair (3, 4) satisfies the following system of equations:
 
-Solution: 10 cookies, 30 brownies
 
-Explanation: To solve this problem, we can graph both equations 
+
+x + y = 7
+2x - y = 2
+
+
+
+[(X)] Yes
+
+By substituting x = 3 and y = 4 into both equations, we get:
+
+
+3 + 4 = 7
+2(3) - 4 = 2
+
+
+Both equations are true, so the coordinate pair (3, 4) satisfies the system of equations.
+
+5. Identify the number of solutions to the following system of equations through graphical analysis:
+
+
+
+3x - y = 1
+6x - 2y = 2
+
+
+
+[(X)] Infinitely many solutions
+
+The second equation is a multiple of the first equation (2 times the first equation), so they represent the same line. This means there are infinitely many solutions, as every point on the line satisfies both equations.
 
 Lesson 7-2: Substitution
 ------------------------
