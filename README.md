@@ -25,7 +25,7 @@ Lesson 7-1: Graphing Systems of Equations
 * Is (x, y) a solution to the system of equations?
 * Find the number of solutions to a system of equations by graphing
 
-###Quiz:
+### Quiz
 
 What type of system is represented by the following equations?
 
@@ -65,7 +65,7 @@ y = 40 - x 2y + 3x >= 100
 
 \[( )\] 20 cookies, 20 brownies \[(X)\] 10 cookies, 30 brownies \[( )\] 30 cookies, 10 brownies \[\[?\]\] Graph both equations and find the region satisfying the inequality \[\[?\]\] Look for integer coordinates within the feasible region
 
-###Solution Page:
+### Solutions Page
 
 1. What type of system is represented by the following equations? y = 3x - 4 y = 6x - 8
 
