@@ -169,6 +169,54 @@ The second equation is a multiple of the first equation (2 times the first equat
 * Solve a system of equations using substitution: word problems
 * Find the number of solutions to a system of equations
 
+In which method do you replace a variable with an equivalent expression in order to solve a system of equations?
+
+[(X)] Substitution
+[( )] Elimination
+[( )] Gaussian elimination
+[( )] Cramer's rule
+[[?]] Think about which method involves replacing a variable with an expression
+
+When solving a system of equations using substitution, what's the first step?
+
+[( )] Multiply both equations by their least common multiples
+[(X)] Solve one of the equations for one of the variables
+[( )] Add the equations together to eliminate one variable
+[( )] Divide one equation by the other to eliminate a variable
+[[?]] Focus on the method that isolates a variable first
+
+Consider the following system of equations:
+
+x + y = 6
+x - y = 2
+
+Use substitution to solve for x and y.
+
+[[x = 4, y = 2]]
+[[?]] Solve one equation for one variable
+[[?]] Substitute the expression into the other equation
+[[?]] Solve for the remaining variable
+[[?]] Don't forget to check your solution in both equations
+
+Solve the following word problem using substitution:
+
+Molly and Kevin have a total of 47 candies. Molly has 3 more candies than Kevin. How many candies does each of them have?
+
+[[Molly = 25, Kevin = 22]]
+[[?]] Create a system of equations based on the problem
+[[?]] Solve one equation for one variable
+[[?]] Substitute the expression into the other equation and solve
+[[?]] Make sure the number of candies adds up to 47
+
+How many solutions can a system of equations have?
+
+[[(X)| | ]] One solution
+[[(X)| | ]] No solution
+[[(X)| | ]] Infinitely many solutions
+[[?]] Think about what different types of systems look like
+[[?]] Consider what happens when the equations are parallel, identical, or intersecting
+
+
 ## Lesson 7-3: Elimination using Addition and Subtraction
 
 
