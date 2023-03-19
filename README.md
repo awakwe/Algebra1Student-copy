@@ -626,6 +626,55 @@ x + y ≤ 5
 [[?]] Verify your solution by testing points in the region
 [[?]] Write "The solution region is below the line BLANK and above the line BLANK"
 
+### Lesson 7-5: - Solutions
+
+What is the main difference between solving a system of linear equations and a system of linear inequalities?
+
+Correct Answer: The solutions are regions instead of specific points.
+
+Explanation: While solving a system of linear equations results in specific points where the lines intersect, solving a system of linear inequalities results in a region of the coordinate plane where all the inequalities are true simultaneously.
+
+Is (3, 2) a solution to the following system of linear inequalities?
+
+y > 2x - 1
+
+y < -x + 4
+
+Correct Answer: Yes
+
+Explanation: Plug the point (3, 2) into both inequalities:
+
+2 > 2(3) - 1 -> 2 > 6 - 1 -> 2 > 5 (True)
+2 < -3 + 4 -> 2 < 1 (True)
+
+Since both inequalities are true for the given point, (3, 2) is a solution to the system of linear inequalities.
+
+Solve the following system of linear inequalities by graphing:
+
+y ≥ -2x + 5
+
+y < 1/3x + 3
+
+Correct Answer: The solution region is above the line y = -2x + 5 and below the line y = 1/3x + 3.
+
+Explanation: Graph both inequalities on a coordinate plane. The solution region is where both inequalities are true. In this case, it is the region above the line y = -2x + 5 and below the line y = 1/3x + 3. You can verify the solution by testing points within the region.
+
+Which of the following is NOT a step in solving systems of linear inequalities by graphing?
+
+Correct Answer: Eliminating one variable
+
+Explanation: Eliminating one variable is a technique used in solving systems of linear equations, not inequalities. When solving systems of linear inequalities by graphing, the steps include graphing the inequality lines on a coordinate plane, identifying the solution region, and testing points within the region to verify the solution.
+
+Solve the following system of linear inequalities by graphing:
+
+x + y ≤ 5
+
+2x - y ≥ 1
+
+Correct Answer: The solution region is below the line x + y = 5 and above the line 2x - y = 1.
+
+Explanation: Graph both inequalities on a coordinate plane. The solution region is where both inequalities are true. In this case, it is the region below the line x + y = 5 and above the line 2x - y = 1. You can verify the solution by testing points within the region.
+
 
 ## Quizzes
 
