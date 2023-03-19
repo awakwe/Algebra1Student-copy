@@ -169,6 +169,7 @@ The second equation is a multiple of the first equation (2 times the first equat
 * Solve a system of equations using substitution: word problems
 * Find the number of solutions to a system of equations
 
+
 In which method do you replace a variable with an equivalent expression in order to solve a system of equations?
 
 [(X)] Substitution
@@ -188,6 +189,7 @@ When solving a system of equations using substitution, what's the first step?
 Consider the following system of equations:
 
 x + y = 6
+
 x - y = 2
 
 Use substitution to solve for x and y.
@@ -210,9 +212,9 @@ Molly and Kevin have a total of 47 candies. Molly has 3 more candies than Kevin.
 
 How many solutions can a system of equations have?
 
-[[(X)| | ]] One solution
-[[(X)| | ]] No solution
-[[(X)| | ]] Infinitely many solutions
+[[(X)]] One solution
+[[(X)]] No solution
+[[(X)]] Infinitely many solutions
 [[?]] Think about what different types of systems look like
 [[?]] Consider what happens when the equations are parallel, identical, or intersecting
 
