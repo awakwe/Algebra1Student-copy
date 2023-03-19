@@ -173,7 +173,7 @@ The second equation is a multiple of the first equation (2 times the first equat
 * Solve a system of equations using substitution: word problems
 * Find the number of solutions to a system of equations
 
-
+### Quiz
 In which method do you replace a variable with an equivalent expression in order to solve a system of equations?
 
 [(X)] Substitution
@@ -288,7 +288,7 @@ So, Molly has 25 candies, and Kevin has 22 candies.
 * Classify a system of equations
 
 
-
+### Quiz
 In which method do you eliminate a variable by adding or subtracting equations?
 
 [( )] Substitution
@@ -401,7 +401,7 @@ So, there were 60 students and 30 teachers at the school fair.
 * Solve a system of equations using any method
 * Solve a system of equations using any method: word problems
 
-
+### Quiz
 
 When using elimination with multiplication, what is the purpose of multiplying one or both equations by a constant?
 
@@ -573,7 +573,7 @@ There were 20 hamburgers and 30 hotdogs served.
 * Is (x, y) a solution to the system of linear inequalities?
 * Solve systems of linear inequalities by graphing
 
-
+### Quiz
 
 What is the main difference between solving a system of linear equations and a system of linear inequalities?
 
