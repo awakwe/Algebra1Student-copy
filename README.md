@@ -341,6 +341,7 @@ What is the main difference between solving a system of linear equations and a s
 Is (3, 2) a solution to the following system of linear inequalities?
 
 y > 2x - 1
+
 y < -x + 4
 
 [(X)] Yes
@@ -351,6 +352,7 @@ y < -x + 4
 Solve the following system of linear inequalities by graphing:
 
 y ≥ -2x + 5
+
 y < 1/3x + 3
 
 [[The solution region is above the line y = -2x + 5 and below the line y = 1/3x + 3]]
@@ -370,6 +372,7 @@ Which of the following is NOT a step in solving systems of linear inequalities b
 Solve the following system of linear inequalities by graphing:
 
 x + y ≤ 5
+
 2x - y ≥ 1
 
 [[The solution region is below the line x + y = 5 and above the line 2x - y = 1]]
