@@ -331,7 +331,7 @@ At a school fair, there were 2 times as many students as teachers. Together, the
 
 ### Lesson 7-3: - Solutions
 
-Here are the solutions to the Liscript Quiz based on Lesson 7-3: Elimination using Addition and Subtraction.
+
 
 In which method do you eliminate a variable by adding or subtracting equations?
 
