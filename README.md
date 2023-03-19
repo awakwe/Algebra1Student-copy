@@ -268,6 +268,60 @@ At a school fair, there were 2 times as many students as teachers. Together, the
 * Solve a system of equations using any method
 * Solve a system of equations using any method: word problems
 
+
+
+When using elimination with multiplication, what is the purpose of multiplying one or both equations by a constant?
+
+[( )] To make the equations simpler
+[(X)] To create equal or opposite coefficients for one variable
+[( )] To change the equations into a matrix
+[( )] To create equal coefficients for both variables
+[[?]] Consider the goal of elimination when using multiplication
+
+Solve the following system of equations using elimination:
+
+4x - 3y = 8
+2x + 3y = 2
+
+[[x = 1, y = 0]]
+[[?]] Identify the variable with opposite coefficients
+[[?]] Add the equations to eliminate one variable
+[[?]] Solve for the remaining variable
+[[?]] Check your solution in both equations
+
+Solve the following word problem using elimination:
+
+A store sells two types of pens, A and B. There are twice as many pens of type A as type B. The total number of pens is 45. How many pens of each type are there?
+
+[[Type A = 30, Type B = 15]]
+[[?]] Form a system of equations based on the problem
+[[?]] Ensure the coefficients of one variable are the same or opposites
+[[?]] Add or subtract the equations to eliminate one variable and solve
+[[?]] Verify that the total number of pens is 45
+
+Solve the following system of equations using any method:
+
+3x + 4y = 24
+x - 2y = 4
+
+[[x = 4, y = 3]]
+[[?]] Choose an appropriate method (substitution, elimination, etc.)
+[[?]] Eliminate one variable or solve for a variable in one equation
+[[?]] Solve for the remaining variable
+[[?]] Check your solution in both equations
+
+Solve the following word problem using any method:
+
+At a conference, the number of students and professionals attending was 150. Each student's registration fee was $50, and each professional's registration fee was $100. The total registration fees collected were $11,000. How many students and professionals attended the conference?
+
+[[Students = 70, Professionals = 80]]
+[[?]] Create a system of equations based on the problem
+[[?]] Choose an appropriate method (substitution, elimination, etc.)
+[[?]] Eliminate one variable or solve for a variable in one equation
+[[?]] Solve for the remaining variable
+[[?]] Confirm that the total number of attendees is 150
+
+
 ## Lesson 7-5: Systems of Inequalities
 
 
