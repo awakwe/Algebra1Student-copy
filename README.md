@@ -162,29 +162,29 @@ Both equations are true, so the coordinate pair (3, 4) satisfies the system of e
 
 The second equation is a multiple of the first equation (2 times the first equation), so they represent the same line. This means there are infinitely many solutions, as every point on the line satisfies both equations.
 
-Lesson 7-2: Substitution
-------------------------
+### Lesson 7-2: Substitution
+
 
 * Solve a system of equations using substitution
 * Solve a system of equations using substitution: word problems
 * Find the number of solutions to a system of equations
 
-Lesson 7-3: Elimination using Addition and Subtraction
-------------------------------------------------------
+## Lesson 7-3: Elimination using Addition and Subtraction
+
 
 * Solve a system of equations by adding or subtracting
 * Classify a system of equations
 
-Lesson 7-4: Elimination Using Multiplication
---------------------------------------------
+## Lesson 7-4: Elimination Using Multiplication
+
 
 * Solve a system of equations using elimination
 * Solve a system of equations using elimination: word problems
 * Solve a system of equations using any method
 * Solve a system of equations using any method: word problems
 
-Lesson 7-5: Systems of Inequalities
------------------------------------
+## Lesson 7-5: Systems of Inequalities
+
 
 * Is (x, y) a solution to the system of linear inequalities?
 * Solve systems of linear inequalities by graphing
