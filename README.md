@@ -411,17 +411,6 @@ When using elimination with multiplication, what is the purpose of multiplying o
 [( )] To create equal coefficients for both variables
 [[?]] Consider the goal of elimination when using multiplication
 
-Solve the following system of equations using elimination:
-
-4x - 3y = 8
-
-2x + 3y = 2
-
-[[x = 1, y = 0]]
-[[?]] Identify the variable with opposite coefficients
-[[?]] Add the equations to eliminate one variable
-[[?]] Solve for the remaining variable
-[[?]] Check your solution in both equations
 
 Solve the following word problem using elimination:
 
@@ -464,28 +453,6 @@ Correct answer: Elimination using multiplication
 
 Explanation: Elimination using multiplication involves multiplying one or both equations by a constant to make the coefficients of one variable equal or opposite. Then, the equations can be added or subtracted to eliminate that variable and solve the system of equations.
 
-Solve the following system of equations using elimination:
-
-x + 2y = 3
-
-3x - 2y = 9
-
-Correct answer: x = 3, y = 0
-
-Solution:
-Add the two equations to eliminate variable y:
-
-x + 2y + 3x - 2y = 3 + 9
-4x = 12
-x = 3
-
-Now, substitute x back into one of the equations to find y:
-
-3 + 2y = 3
-2y = 0
-y = 0
-
-Check the solution (x = 3, y = 0) in both equations.
 
 Solve the following word problem using elimination:
 
