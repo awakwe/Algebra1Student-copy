@@ -307,27 +307,31 @@ When using elimination, what should you do first if the coefficients of a variab
 
 Consider the following system of equations:
 
-3x - 2y = 7
+–3x + 4y = 18
 
-6x + 2y = 10
+2x − 4y = –8
 
 Use elimination to solve for x and y.
 
-[[x = 2, y = -1]]
+[[x =  –10, y = -3]]
 [[?]] Look for a variable with the same or opposite coefficients
 [[?]] Add or subtract the equations to eliminate one variable
 [[?]] Solve for the remaining variable
 [[?]] Don't forget to check your solution in both equations
 
-Solve the following word problem using elimination:
+Consider the following system of equations:
 
-At a school fair, there were 2 times as many students as teachers. Together, there were 90 people. How many students and teachers were there?
+–2x − 6y = –16
 
-[[Students = 60, Teachers = 30]]
-[[?]] Create a system of equations based on the problem
-[[?]] Make sure the coefficients of one variable are the same or opposites
-[[?]] Add or subtract the equations to eliminate one variable and solve
-[[?]] Make sure the total number of people adds up to 90
+–2x − 5y = –10
+
+Use elimination to solve for x and y.
+
+[[x =  –10, y = 6]]
+[[?]] Look for a variable with the same or opposite coefficients
+[[?]] Add or subtract the equations to eliminate one variable
+[[?]] Solve for the remaining variable
+[[?]] Don't forget to check your solution in both equations
 
 ### Lesson 7-3: - Solutions
 
@@ -345,53 +349,102 @@ Answer: Multiply one or both equations by a constant to make the coefficients eq
 
 To use the elimination method effectively, you need to have equal coefficients for a variable. You can achieve this by multiplying one or both equations by a constant.
 
-Consider the following system of equations:
-
-3x - 2y = 7
-
-6x + 2y = 10
-
-Use elimination to solve for x and y.
-
-Answer: x = 2, y = -1
-
-Add the two equations together to eliminate the y variable:
-3x - 2y + 6x + 2y = 7 + 10
-9x = 17
-x = 17 / 9 ≈ 1.89
-
-Now, substitute the value of x back into one of the original equations:
-3(1.89) - 2y = 7
-5.67 - 2y = 7
--2y = 1.33
-y ≈ -0.67
-
-So, x ≈ 1.89 and y ≈ -0.67.
-
-Solve the following word problem using elimination:
-
-At a school fair, there were 2 times as many students as teachers. Together, there were 90 people. How many students and teachers were there?
-
-Answer: Students = 60, Teachers = 30
-
-Let S be the number of students and T be the number of teachers.
-
-Create a system of equations based on the problem:
-S = 2T
-S + T = 90
-
-Subtract the first equation from the second equation to eliminate the S variable:
-(S + T) - (S - 2T) = 90 - 0
-3T = 90
-T = 30
-
-Now, substitute the value of T back into one of the original equations:
-S = 2(30)
-S = 60
-
-So, there were 60 students and 30 teachers at the school fair.
 
 
+To solve the system of equations:
+
+–3x + 4y = 18
+
+2x − 4y = –8
+
+using elimination, follow these steps:
+
+1. Add the two equations together to eliminate y:
+
+   –3x + 4y + 2x − 4y = 18 – 8
+
+2. Simplify to get:
+
+   –x = 10
+
+3. Solve for x by dividing both sides by –1:
+
+   x = –10
+
+4. Substitute x = –10 into one of the equations to solve for y:
+
+   2x − 4y = –8
+
+   2(–10) − 4y = –8
+
+   –20 − 4y = –8
+
+5. Simplify and solve for y:
+
+   –4y = –8 + 20
+
+   –4y = 12
+
+   y = –3
+
+6. Check the solution by substituting x = –10 and y = –3 into both equations:
+
+   –3(–10) + 4(–3) = 18
+
+   2(–10) − 4(–3) = –8
+
+   Both equations are true, so the solution is x = –10 and y = –3.
+
+
+
+To solve the system of equations:
+
+–2x − 6y = –16
+
+–2x − 5y = –10
+
+using elimination, follow these steps:
+
+1. Multiply the second equation by –1 to make the x terms add together and eliminate x:
+
+   –2x − 6y = –16
+    2x + 5y =  10  (multiplied by –1)
+
+   Adding the two equations, we get:
+
+   –y = –6
+
+2. Solve for y by dividing both sides by –1:
+
+   y = 6
+
+3. Substitute y = 6 into one of the equations to solve for x. We can use either equation, but the first one is simpler:
+
+   –2x − 6y = –16
+
+   Substituting y = 6, we get:
+
+   –2x − 6(6) = –16
+
+   Simplifying, we get:
+
+   –2x = 20
+
+4. Solve for x by dividing both sides by –2:
+
+   x = –10
+
+5. Check the solution by substituting x = –10 and y = 6 into both equations:
+
+   –2(–10) − 6(6) = –16
+   –2(–10) − 5(6) = –10
+
+   Simplifying, we get:
+
+   8 = 8
+   4 = 4
+
+   Both equations are true, so the solution is x = –10 and y = 6.
 
 ## Lesson 7-4: Elimination Using Multiplication
 
