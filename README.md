@@ -210,55 +210,6 @@ Molly and Kevin have a total of 47 candies. Molly has 3 more candies than Kevin.
 [[?]] Substitute the expression into the other equation and solve
 [[?]] Make sure the number of candies adds up to 47
 
-
-## Lesson 7-3: Elimination using Addition and Subtraction
-
-
-* Solve a system of equations by adding or subtracting
-* Classify a system of equations
-
-
-
-In which method do you eliminate a variable by adding or subtracting equations?
-
-[( )] Substitution
-[(X)] Elimination
-[( )] Gaussian elimination
-[( )] Cramer's rule
-[[?]] Think about which method involves combining equations to eliminate a variable
-
-When using elimination, what should you do first if the coefficients of a variable are not the same in both equations?
-
-[( )] Solve one of the equations for one of the variables
-[( )] Add the equations together to eliminate one variable
-[(X)] Multiply one or both equations by a constant to make the coefficients equal
-[( )] Divide one equation by the other to eliminate a variable
-[[?]] Focus on the method that requires equal coefficients for a variable
-
-Consider the following system of equations:
-
-3x - 2y = 7
-
-6x + 2y = 10
-
-Use elimination to solve for x and y.
-
-[[x = 2, y = -1]]
-[[?]] Look for a variable with the same or opposite coefficients
-[[?]] Add or subtract the equations to eliminate one variable
-[[?]] Solve for the remaining variable
-[[?]] Don't forget to check your solution in both equations
-
-Solve the following word problem using elimination:
-
-At a school fair, there were 2 times as many students as teachers. Together, there were 90 people. How many students and teachers were there?
-
-[[Students = 60, Teachers = 30]]
-[[?]] Create a system of equations based on the problem
-[[?]] Make sure the coefficients of one variable are the same or opposites
-[[?]] Add or subtract the equations to eliminate one variable and solve
-[[?]] Make sure the total number of people adds up to 90
-
 ### Lesson 7-2: Substitution - Solutions
 
 In which method do you replace a variable with an equivalent expression in order to solve a system of equations?
@@ -325,6 +276,55 @@ Finally, substitute the value of K back into the expression for M:
 M = 22 + 3 = 25
 
 So, Molly has 25 candies, and Kevin has 22 candies.
+
+## Lesson 7-3: Elimination using Addition and Subtraction
+
+
+* Solve a system of equations by adding or subtracting
+* Classify a system of equations
+
+
+
+In which method do you eliminate a variable by adding or subtracting equations?
+
+[( )] Substitution
+[(X)] Elimination
+[( )] Gaussian elimination
+[( )] Cramer's rule
+[[?]] Think about which method involves combining equations to eliminate a variable
+
+When using elimination, what should you do first if the coefficients of a variable are not the same in both equations?
+
+[( )] Solve one of the equations for one of the variables
+[( )] Add the equations together to eliminate one variable
+[(X)] Multiply one or both equations by a constant to make the coefficients equal
+[( )] Divide one equation by the other to eliminate a variable
+[[?]] Focus on the method that requires equal coefficients for a variable
+
+Consider the following system of equations:
+
+3x - 2y = 7
+
+6x + 2y = 10
+
+Use elimination to solve for x and y.
+
+[[x = 2, y = -1]]
+[[?]] Look for a variable with the same or opposite coefficients
+[[?]] Add or subtract the equations to eliminate one variable
+[[?]] Solve for the remaining variable
+[[?]] Don't forget to check your solution in both equations
+
+Solve the following word problem using elimination:
+
+At a school fair, there were 2 times as many students as teachers. Together, there were 90 people. How many students and teachers were there?
+
+[[Students = 60, Teachers = 30]]
+[[?]] Create a system of equations based on the problem
+[[?]] Make sure the coefficients of one variable are the same or opposites
+[[?]] Add or subtract the equations to eliminate one variable and solve
+[[?]] Make sure the total number of people adds up to 90
+
 
 
 ## Lesson 7-4: Elimination Using Multiplication
