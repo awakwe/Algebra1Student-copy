@@ -305,31 +305,24 @@ When using elimination, what should you do first if the coefficients of a variab
 [( )] Divide one equation by the other to eliminate a variable
 [[?]] Focus on the method that requires equal coefficients for a variable
 
-Consider the following system of equations:
+Solve using elimination.
 
-–3x + 4y = 18
+6x + 5y = –15
 
-2x − 4y = –8
+6x + 9y = –3
 
-Use elimination to solve for x and y.
 
-[[x =  –10, y = -3]]
-[[?]] Look for a variable with the same or opposite coefficients
-[[?]] Add or subtract the equations to eliminate one variable
-[[?]] Solve for the remaining variable
-[[?]] Don't forget to check your solution in both equations
+[[x =  –5 , y = 3]]
 
-Consider the following system of equations:
 
-–2x − 6y = –16
+Solve using elimination.
 
-–2x − 5y = –10
+–8x − 7y = –7
 
-Use elimination to solve for x and y.
+–10x − 7y = 7
 
-[[x =  –10, y = 6]]
-[[?]] Look for a variable with the same or opposite coefficients
-[[?]] Add or subtract the equations to eliminate one variable
+
+[[x =  –7, y = 9]]
 [[?]] Solve for the remaining variable
 [[?]] Don't forget to check your solution in both equations
 
@@ -353,98 +346,97 @@ To use the elimination method effectively, you need to have equal coefficients f
 
 To solve the system of equations:
 
-–3x + 4y = 18
-
-2x − 4y = –8
-
-using elimination, follow these steps:
-
-1. Add the two equations together to eliminate y:
-
-   –3x + 4y + 2x − 4y = 18 – 8
-
-2. Simplify to get:
-
-   –x = 10
-
-3. Solve for x by dividing both sides by –1:
-
-   x = –10
-
-4. Substitute x = –10 into one of the equations to solve for y:
-
-   2x − 4y = –8
-
-   2(–10) − 4y = –8
-
-   –20 − 4y = –8
-
-5. Simplify and solve for y:
-
-   –4y = –8 + 20
-
-   –4y = 12
-
-   y = –3
-
-6. Check the solution by substituting x = –10 and y = –3 into both equations:
-
-   –3(–10) + 4(–3) = 18
-
-   2(–10) − 4(–3) = –8
-
-   Both equations are true, so the solution is x = –10 and y = –3.
-
-
-
-To solve the system of equations:
-
-–2x − 6y = –16
-
-–2x − 5y = –10
+6x + 5y = –15
+6x + 9y = –3
 
 using elimination, follow these steps:
 
-1. Multiply the second equation by –1 to make the x terms add together and eliminate x:
+1. Make sure the equations have opposite x terms or opposite y terms. Currently, neither the x terms (6x and 6x) nor the y terms (5y and 9y) are opposites. Use multiplication to rewrite the equations with either opposite x terms or opposite y terms. One good approach is to multiply the first equation by –1:
 
-   –2x − 6y = –16
-    2x + 5y =  10  (multiplied by –1)
+   –(6x + 5y = –15)
+     → 
+   –6x − 5y = 15
+
+   Now the x terms (–6x and 6x) are opposites.
+
+2. Add the two equations to eliminate the x terms, and then solve for y:
+
+   –6x − 5y = 15
+   6x + 9y = –3
 
    Adding the two equations, we get:
 
-   –y = –6
-
-2. Solve for y by dividing both sides by –1:
-
-   y = 6
-
-3. Substitute y = 6 into one of the equations to solve for x. We can use either equation, but the first one is simpler:
-
-   –2x − 6y = –16
-
-   Substituting y = 6, we get:
-
-   –2x − 6(6) = –16
+   4y = 12
 
    Simplifying, we get:
 
-   –2x = 20
+   y = 3
 
-4. Solve for x by dividing both sides by –2:
+3. Plug the result of Step 2 into one of the original equations and solve for x:
 
-   x = –10
+   6x + 5y = –15
 
-5. Check the solution by substituting x = –10 and y = 6 into both equations:
+   Substituting y = 3, we get:
 
-   –2(–10) − 6(6) = –16
-   –2(–10) − 5(6) = –10
+   6x + 5(3) = –15
 
    Simplifying, we get:
 
-   8 = 8
-   4 = 4
+   6x = –30
 
-   Both equations are true, so the solution is x = –10 and y = 6.
+   Solving for x, we get:
+
+   x = –5
+
+4. State the solution. Since x = –5 and y = 3, the solution is (–5, 3).
+
+Therefore, the solution to the system of equations 6x + 5y = –15 and 6x + 9y = –3 is (–5, 3).
+Solving a System of Equations using Elimination
+
+Step 1: Make sure the equations have opposite x terms or opposite y terms.
+
+Currently, neither the x terms (–8x and –10x) nor the y terms (–7y and –7y) are opposites. Use multiplication to rewrite the equations with either opposite x terms or opposite y terms. One good approach is to multiply the first equation by –1.
+
+-(-8x - 7y = -7)
+→
+8x + 7y = 7
+-10x - 7y = 7
+→
+-10x - 7y = 7
+
+Now the y terms (7y and –7y) are opposites.
+
+Step 2: Add to eliminate one variable and solve for the other.
+
+Add to eliminate the y terms, and then solve for x.
+
+8x + 7y = 7
++
+-10x - 7y = 7
+=
+-2x + 0y = 14 Add to eliminate the y terms
+
+-2x = 14 Simplify
+
+x = -7 Divide both sides by -2
+
+Step 3: Plug the result of Step 2 into one of the original equations and solve.
+
+Take the result of Step 2, x = –7, and plug it into one of the original equations, such as -8x - 7y = -7. Then find the value of y.
+
+-8x - 7y = -7
+
+-8(-7) - 7y = -7 Plug in x = –7
+
+56 - 7y = -7 Multiply
+
+-7y = -63 Subtract 56 from both sides
+
+y = 9 Divide both sides by –7
+
+Step 4: State the solution.
+
+Since x = –7 and y = 9, the solution is (-7, 9).
 
 ## Lesson 7-4: Elimination Using Multiplication
 
