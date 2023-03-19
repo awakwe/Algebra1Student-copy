@@ -258,17 +258,6 @@ At a school fair, there were 2 times as many students as teachers. Together, the
 [[?]] Add or subtract the equations to eliminate one variable and solve
 [[?]] Make sure the total number of people adds up to 90
 
-Classify the following system of equations:
-
-2x + 3y = 5
-4x + 6y = 10
-
-[[( )|(X)| ]] One solution
-[[( )|( )|(X)]] No solution
-[[(X)| | ]] Infinitely many solutions
-[[?]] Check if the equations are parallel, identical, or intersecting
-[[?]] Determine the relationship between the coefficients and constants
-
 
 
 ## Lesson 7-4: Elimination Using Multiplication
