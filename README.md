@@ -391,7 +391,13 @@ using elimination, follow these steps:
 4. State the solution. Since x = –5 and y = 3, the solution is (–5, 3).
 
 Therefore, the solution to the system of equations 6x + 5y = –15 and 6x + 9y = –3 is (–5, 3).
-Solving a System of Equations using Elimination
+
+
+To solve the system of equations:
+
+–8x − 7y = –7
+
+–10x − 7y = 7
 
 Step 1: Make sure the equations have opposite x terms or opposite y terms.
 
