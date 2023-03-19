@@ -238,6 +238,7 @@ When using elimination, what should you do first if the coefficients of a variab
 Consider the following system of equations:
 
 3x - 2y = 7
+
 6x + 2y = 10
 
 Use elimination to solve for x and y.
