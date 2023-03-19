@@ -281,6 +281,7 @@ When using elimination with multiplication, what is the purpose of multiplying o
 Solve the following system of equations using elimination:
 
 4x - 3y = 8
+
 2x + 3y = 2
 
 [[x = 1, y = 0]]
@@ -302,6 +303,7 @@ A store sells two types of pens, A and B. There are twice as many pens of type A
 Solve the following system of equations using any method:
 
 3x + 4y = 24
+
 x - 2y = 4
 
 [[x = 4, y = 3]]
