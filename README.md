@@ -382,13 +382,6 @@ x + y ≤ 5
 [[?]] Write "The solution region is below the line BLANK and above the line BLANK"
 
 
-### Checkpoint opportunity
-
-Module 7
-
-1. Checkpoint: Systems of equations and inequalities
-2. Checkpoint: Represent constraints
-
 ## Quizzes
 
 Throughout the module, there will be quizzes to test your knowledge on the topics we have covered. These quizzes will help you assess your understanding and identify areas where you may need to review.
