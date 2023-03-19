@@ -162,7 +162,7 @@ Both equations are true, so the coordinate pair (3, 4) satisfies the system of e
 
 The second equation is a multiple of the first equation (2 times the first equation), so they represent the same line. This means there are infinitely many solutions, as every point on the line satisfies both equations.
 
-### Lesson 7-2: Substitution
+## Lesson 7-2: Substitution
 
 
 * Solve a system of equations using substitution
@@ -259,6 +259,72 @@ At a school fair, there were 2 times as many students as teachers. Together, the
 [[?]] Add or subtract the equations to eliminate one variable and solve
 [[?]] Make sure the total number of people adds up to 90
 
+### Lesson 7-2: Substitution - Solutions
+
+In which method do you replace a variable with an equivalent expression in order to solve a system of equations?
+
+Answer: Substitution
+
+In the substitution method, we solve one equation for one variable and then replace that variable with the equivalent expression in the other equation to solve for the remaining variable.
+
+When solving a system of equations using substitution, what's the first step?
+
+Answer: Solve one of the equations for one of the variables
+
+The first step in the substitution method is to solve one of the equations for one of the variables, which will allow you to substitute the expression into the other equation.
+
+Consider the following system of equations:
+
+x + y = 6
+
+x - y = 2
+
+Use substitution to solve for x and y.
+
+Answer: x = 4, y = 2
+
+First, solve one equation for one variable, e.g., the first equation for x:
+x = 6 - y
+
+Now, substitute this expression into the second equation:
+(6 - y) - y = 2
+
+Solve for y:
+6 - 2y = 2
+2y = 4
+y = 2
+
+Finally, substitute the value of y back into the expression for x:
+x = 6 - 2 = 4
+
+So, x = 4 and y = 2.
+
+Solve the following word problem using substitution:
+
+Molly and Kevin have a total of 47 candies. Molly has 3 more candies than Kevin. How many candies does each of them have?
+
+Answer: Molly = 25, Kevin = 22
+
+First, create a system of equations based on the problem:
+
+M + K = 47 (total candies)
+M = K + 3 (Molly has 3 more candies than Kevin)
+
+Solve one equation for one variable (e.g., the second equation for M):
+M = K + 3
+
+Substitute the expression into the other equation:
+(K + 3) + K = 47
+
+Solve for K:
+2K + 3 = 47
+2K = 44
+K = 22
+
+Finally, substitute the value of K back into the expression for M:
+M = 22 + 3 = 25
+
+So, Molly has 25 candies, and Kevin has 22 candies.
 
 
 ## Lesson 7-4: Elimination Using Multiplication
