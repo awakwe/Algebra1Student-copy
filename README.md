@@ -214,7 +214,7 @@ Molly and Kevin have a total of 47 candies. Molly has 3 more candies than Kevin.
 [[?]] Substitute the expression into the other equation and solve
 [[?]] Make sure the number of candies adds up to 47
 
-### Lesson 7-2: Substitution - Solutions
+### Lesson 7-2: - Solutions
 
 In which method do you replace a variable with an equivalent expression in order to solve a system of equations?
 
@@ -328,6 +328,81 @@ At a school fair, there were 2 times as many students as teachers. Together, the
 [[?]] Make sure the coefficients of one variable are the same or opposites
 [[?]] Add or subtract the equations to eliminate one variable and solve
 [[?]] Make sure the total number of people adds up to 90
+
+### Lesson 7-3: - Solutions
+
+Here are the solutions to the Liscript Quiz based on Lesson 7-3: Elimination using Addition and Subtraction.
+
+In which method do you eliminate a variable by adding or subtracting equations?
+
+Answer: Elimination
+
+The elimination method involves combining equations to eliminate one variable, making it easier to solve the system of equations.
+
+When using elimination, what should you do first if the coefficients of a variable are not the same in both equations?
+
+Answer: Multiply one or both equations by a constant to make the coefficients equal
+
+To use the elimination method effectively, you need to have equal coefficients for a variable. You can achieve this by multiplying one or both equations by a constant.
+
+Consider the following system of equations:
+
+3x - 2y = 7
+
+6x + 2y = 10
+
+Use elimination to solve for x and y.
+
+Answer: x = 2, y = -1
+
+Add the two equations together to eliminate the y variable:
+3x - 2y + 6x + 2y = 7 + 10
+9x = 17
+x = 17 / 9 ≈ 1.89
+
+Now, substitute the value of x back into one of the original equations:
+3(1.89) - 2y = 7
+5.67 - 2y = 7
+-2y = 1.33
+y ≈ -0.67
+
+So, x ≈ 1.89 and y ≈ -0.67.
+
+Solve the following word problem using elimination:
+
+At a school fair, there were 2 times as many students as teachers. Together, there were 90 people. How many students and teachers were there?
+
+Answer: Students = 60, Teachers = 30
+
+Let S be the number of students and T be the number of teachers.
+
+Create a system of equations based on the problem:
+S = 2T
+S + T = 90
+
+Subtract the first equation from the second equation to eliminate the S variable:
+(S + T) - (S - 2T) = 90 - 0
+3T = 90
+T = 30
+
+Now, substitute the value of T back into one of the original equations:
+S = 2(30)
+S = 60
+
+So, there were 60 students and 30 teachers at the school fair.
+
+Classify the following system of equations:
+
+2x + 3y = 5
+
+4x + 6y = 10
+
+Answer: Infinitely many solutions
+
+Divide the second equation by 2:
+2x + 3y = 5
+
+Now both equations are identical, which means they represent the same line. Therefore, there are infinitely many solutions as the lines overlap completely.
 
 
 
