@@ -463,38 +463,34 @@ When using elimination with multiplication, what is the purpose of multiplying o
 [[?]] Consider the goal of elimination when using multiplication
 
 
-Solve the following word problem using elimination:
+Write a system of equations to describe the situation below, solve using elimination
 
-A store sells two types of pens, A and B. There are twice as many pens of type A as type B. The total number of pens is 45. How many pens of each type are there?
+A charitable organization in Westford is hosting a black tie benefit. Yesterday, the organization sold 30 regular tickets and 39 VIP tickets, raising $6,339. Today, 30 regular tickets and 30 VIP tickets were sold, bringing in a total of $5,340. How much do the different ticket types cost?
 
-[[Type A = 30, Type B = 15]]
-[[?]] Form a system of equations based on the problem
-[[?]] Ensure the coefficients of one variable are the same or opposites
-[[?]] Add or subtract the equations to eliminate one variable and solve
-[[?]] Verify that the total number of pens is 45
+[[regular ticket costs $67, and a VIP ticket costs $111]]
+[[?]] Write regular ticket costs $BLANK, and a VIP ticket costs $BLANK
 
 Solve the following system of equations using any method:
 
-3x + 4y = 24
+x + 10y = 17
 
-x - 2y = 4
+y = 1
 
-[[x = 4, y = 3]]
+[[x = 7, y = 1]]
 [[?]] Choose an appropriate method (substitution, elimination, etc.)
 [[?]] Eliminate one variable or solve for a variable in one equation
 [[?]] Solve for the remaining variable
 [[?]] Check your solution in both equations
 
-Solve the following word problem using any method:
 
-At a conference, the number of students and professionals attending was 150. Each student's registration fee was $50, and each professional's registration fee was $100. The total registration fees collected were $11,000. How many students and professionals attended the conference?
+Write a system of equations to describe the situation below, solve using any method
 
-[[Students = 70, Professionals = 80]]
-[[?]] Create a system of equations based on the problem
-[[?]] Choose an appropriate method (substitution, elimination, etc.)
-[[?]] Eliminate one variable or solve for a variable in one equation
-[[?]] Solve for the remaining variable
-[[?]] Confirm that the total number of attendees is 150
+A coffee shop is having a sale on prepackaged coffee and tea. Yesterday they sold 23 packages of coffee and 50 packages of tea, for which customers paid a total of $461. The day before, 48 packages of coffee and 11 packages of tea was sold, which brought in a total of $402. How much does each package cost?
+
+
+[[coffee= $7,tea= $6]]
+[[?]] coffee= $BLANK,tea $BLANK
+
 
 ###  Lesson 7-4: - Solution
 
@@ -507,83 +503,115 @@ Explanation: Elimination using multiplication involves multiplying one or both e
 
 Solve the following word problem using elimination:
 
-At a sports event, there are 3 times as many adults as children. Together, there are 80 people. How many adults and children are there?
+30x + 39y = 6,339
+30x + 30y = 5,340
 
-Correct answer: Adults = 60, Children = 20
+Step 1: Make sure the equations have opposite x terms or opposite y terms.
 
-Solution:
-Create a system of equations based on the problem:
+Currently, neither the x terms (30x and 30x) nor the y terms (39y and 30y) are opposites. Use multiplication to rewrite the equations with either opposite x terms or opposite y terms. One good approach is to multiply the first equation by –1.
 
-A = 3C
+–(30x + 39y = 6,339)
+ → 
+–30x − 39y = –6,339
+30x + 30y = 5,340
+ → 
+30x + 30y = 5,340
 
-A + C = 80
+Now the x terms (–30x and 30x) are opposites.
 
-Eliminate variable A by substitution:
 
-3C + C = 80
-4C = 80
-C = 20
+Step 2: Add to eliminate one variable and solve for the other.
 
-Now, substitute C back into one of the equations to find A:
+Add to eliminate the x terms, and then solve for y.
 
-A + 20 = 80
-A = 60
+–30x	 − 	39y	 = 	–6,339	
++ (	30x	 + 	30y	 = 	5,340	)
+0x	 − 	9y	 = 	–999	        Add to eliminate the x terms
 
-There are 60 adults and 20 children.
+–9y	 = 	–999	        Simplify
 
-Solve the following system of equations using any method:
+y	 = 	111	        Divide both sides by –9
 
-2x - y = 1
 
-x + y = 5
+Step 3: Plug the result of Step 2 into one of the original equations and solve.
 
-Correct answer: x = 2, y = 3
+Take the result of Step 2, y = 111, and plug it into one of the original equations, such as 30x + 39y = 6,339. Then find the value of x.
 
-Solution (using elimination):
+30x + 39y	 = 	6,339	
 
-Add the two equations to eliminate variable y:
+30x + 39(111)	 = 	6,339	Plug in y = 111
 
-(2x - y) + (x + y) = 1 + 5
-3x = 6
-x = 2
+30x + 4,329	 = 	6,339	Multiply
 
-Now, substitute x back into one of the equations to find y:
+30x	 = 	2,010	Subtract 4,329 from both sides
 
-2 + y = 5
+x	 = 	67	Divide both sides by 30
 
-y = 3
 
-Check the solution (x = 2, y = 3) in both equations.
+Step 4: State the solution.
 
-Solve the following word problem using any method:
+Since x = 67 and y = 111, the solution is (67, 111).
 
-At a party, the total number of hamburgers and hotdogs served was 50. Each hamburger cost $3, and each hotdog cost $2. The total cost was $120. How many hamburgers and hotdogs were served?
 
-Correct answer: Hamburgers = 20, Hotdogs = 30
+A regular ticket costs $67, and a VIP ticket costs $111.
 
-Solution (using substitution or elimination):
 
-Create a system of equations based on the problem:
+A coffee shop is having a sale on prepackaged coffee and tea. Yesterday they sold 23 packages of coffee and 50 packages of tea, for which customers paid a total of $461. The day before, 48 packages of coffee and 11 packages of tea was sold, which brought in a total of $402. How much does each package cost?
 
-H + D = 50
+23x + 50y = 461
+48x + 11y = 402
 
-3H + 2D = 120
+Now use any method to solve the system of equations, such as elimination.
 
-Using substitution or elimination method, solve the system of equations:
 
-Substituting D = 50 - H into the second equation:
+Step 1: Make sure the equations have opposite x terms or opposite y terms.
 
-3H + 2(50 - H) = 120
-3H + 100 - 2H = 120
-H = 20
+Currently, neither the x terms (23x and 48x) nor the y terms (50y and 11y) are opposites. Use multiplication to rewrite the equations with either opposite x terms or opposite y terms. One good approach is to multiply the first equation by 48 and the second equation by –23.
 
-Now, substitute H back into one of the equations to find D:
+48(23x + 50y = 461)
+ → 
+1,104x + 2,400y = 22,128
+–23(48x + 11y = 402)
+ → 
+–1,104x − 253y = –9,246
 
-20 + D = 50
-D = 30
+Now the x terms (1,104x and –1,104x) are opposites.
 
-There were 20 hamburgers and 30 hotdogs served.
 
+Step 2: Add to eliminate one variable and solve for the other.
+
+Add to eliminate the x terms, and then solve for y.
+
+1,104x	 + 	2,400y	 = 	22,128	
++ (	–1,104x	 − 	253y	 = 	–9,246	)
+0x	 + 	2,147y	 = 	12,882	        Add to eliminate the x terms
+
+2,147y	 = 	12,882	        Simplify
+
+y	 = 	6	        Divide both sides by 2,147
+
+
+Step 3: Plug the result of Step 2 into one of the original equations and solve.
+
+Take the result of Step 2, y = 6, and plug it into one of the original equations, such as 23x + 50y = 461. Then find the value of x.
+
+23x + 50y	 = 	461	
+
+23x + 50(6)	 = 	461	Plug in y = 6
+
+23x + 300	 = 	461	Multiply
+
+23x	 = 	161	Subtract 300 from both sides
+
+x	 = 	7	Divide both sides by 23
+
+
+Step 4: State the solution.
+
+Since x = 7 and y = 6, the solution is (7, 6).
+
+
+Per package, coffee costs $7 and tea costs $6.
 
 ## Lesson 7-5: Systems of Inequalities
 
