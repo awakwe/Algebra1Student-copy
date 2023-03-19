@@ -328,6 +328,57 @@ At a conference, the number of students and professionals attending was 150. Eac
 * Is (x, y) a solution to the system of linear inequalities?
 * Solve systems of linear inequalities by graphing
 
+
+
+What is the main difference between solving a system of linear equations and a system of linear inequalities?
+
+[( )] The process of solving the system
+[(X)] The solutions are regions instead of specific points
+[( )] The number of variables involved
+[( )] The type of graph used
+[[?]] Consider the possible solutions for inequalities
+
+Is (3, 2) a solution to the following system of linear inequalities?
+
+y > 2x - 1
+y < -x + 4
+
+[(X)] Yes
+[( )] No
+[[?]] Plug the point (3, 2) into both inequalities
+[[?]] Check if both inequalities are true for the given point
+
+Solve the following system of linear inequalities by graphing:
+
+y ≥ -2x + 5
+y < 1/3x + 3
+
+[[The solution region is above the line y = -2x + 5 and below the line y = 1/3x + 3]]
+[[?]] Graph both inequalities on a coordinate plane
+[[?]] Identify the solution region based on the inequalities
+[[?]] Verify your solution by testing points in the region
+[[?]] Write "The solution region is above the line BLANK and below the line BLANK"
+
+Which of the following is NOT a step in solving systems of linear inequalities by graphing?
+
+[( )] Graphing the inequality lines on a coordinate plane
+[( )] Identifying the solution region
+[(X)] Eliminating one variable
+[( )] Testing points within the region to verify the solution
+[[?]] Consider the steps specific to solving inequalities by graphing
+
+Solve the following system of linear inequalities by graphing:
+
+x + y ≤ 5
+2x - y ≥ 1
+
+[[The solution region is below the line x + y = 5 and above the line 2x - y = 1]]
+[[?]] Graph both inequalities on a coordinate plane
+[[?]] Identify the solution region based on the inequalities
+[[?]] Verify your solution by testing points in the region
+[[?]] Write "The solution region is below the line BLANK and above the line BLANK"
+
+
 ### Checkpoint opportunity
 
 Module 7
