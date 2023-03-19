@@ -456,6 +456,116 @@ At a conference, the number of students and professionals attending was 150. Eac
 [[?]] Solve for the remaining variable
 [[?]] Confirm that the total number of attendees is 150
 
+###  Lesson 7-4: - Solution
+
+Which method involves multiplying one or both equations by a constant to make the coefficients equal before adding or subtracting to eliminate a variable?
+
+Correct answer: Elimination using multiplication
+
+Explanation: Elimination using multiplication involves multiplying one or both equations by a constant to make the coefficients of one variable equal or opposite. Then, the equations can be added or subtracted to eliminate that variable and solve the system of equations.
+
+Solve the following system of equations using elimination:
+
+x + 2y = 3
+
+3x - 2y = 9
+
+Correct answer: x = 3, y = 0
+
+Solution:
+Add the two equations to eliminate variable y:
+
+x + 2y + 3x - 2y = 3 + 9
+4x = 12
+x = 3
+
+Now, substitute x back into one of the equations to find y:
+
+3 + 2y = 3
+2y = 0
+y = 0
+
+Check the solution (x = 3, y = 0) in both equations.
+
+Solve the following word problem using elimination:
+
+At a sports event, there are 3 times as many adults as children. Together, there are 80 people. How many adults and children are there?
+
+Correct answer: Adults = 60, Children = 20
+
+Solution:
+Create a system of equations based on the problem:
+
+A = 3C
+
+A + C = 80
+
+Eliminate variable A by substitution:
+
+3C + C = 80
+4C = 80
+C = 20
+
+Now, substitute C back into one of the equations to find A:
+
+A + 20 = 80
+A = 60
+
+There are 60 adults and 20 children.
+
+Solve the following system of equations using any method:
+
+2x - y = 1
+
+x + y = 5
+
+Correct answer: x = 2, y = 3
+
+Solution (using elimination):
+
+Add the two equations to eliminate variable y:
+
+(2x - y) + (x + y) = 1 + 5
+3x = 6
+x = 2
+
+Now, substitute x back into one of the equations to find y:
+
+2 + y = 5
+
+y = 3
+
+Check the solution (x = 2, y = 3) in both equations.
+
+Solve the following word problem using any method:
+
+At a party, the total number of hamburgers and hotdogs served was 50. Each hamburger cost $3, and each hotdog cost $2. The total cost was $120. How many hamburgers and hotdogs were served?
+
+Correct answer: Hamburgers = 20, Hotdogs = 30
+
+Solution (using substitution or elimination):
+
+Create a system of equations based on the problem:
+
+H + D = 50
+
+3H + 2D = 120
+
+Using substitution or elimination method, solve the system of equations:
+
+Substituting D = 50 - H into the second equation:
+
+3H + 2(50 - H) = 120
+3H + 100 - 2H = 120
+H = 20
+
+Now, substitute H back into one of the equations to find D:
+
+20 + D = 50
+D = 30
+
+There were 20 hamburgers and 30 hotdogs served.
+
 
 ## Lesson 7-5: Systems of Inequalities
 
