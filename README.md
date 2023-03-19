@@ -210,14 +210,6 @@ Molly and Kevin have a total of 47 candies. Molly has 3 more candies than Kevin.
 [[?]] Substitute the expression into the other equation and solve
 [[?]] Make sure the number of candies adds up to 47
 
-How many solutions can a system of equations have?
-
-[[(X)]] One solution
-[[(X)]] No solution
-[[(X)]] Infinitely many solutions
-[[?]] Think about what different types of systems look like
-[[?]] Consider what happens when the equations are parallel, identical, or intersecting
-
 
 ## Lesson 7-3: Elimination using Addition and Subtraction
 
