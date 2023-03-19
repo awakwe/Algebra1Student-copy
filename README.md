@@ -16,8 +16,8 @@ comment:  This document is a simple LiaScript course example.
 Module 7: Systems of Linear Equations and Inequalities
 ======================================================
 
-Lesson 7-1: Graphing Systems of Equations
------------------------------------------
+## Lesson 7-1: Graphing Systems of Equations
+
 
 * Solve a system of equations by graphing
 * Classify a system of equations by graphing
@@ -42,6 +42,7 @@ Lesson 7-1: Graphing Systems of Equations
 
 
 y = x + 2
+
 y = -x + 2
 
 
@@ -68,6 +69,7 @@ A store sells two types of fruit: apples and oranges. The price of an apple is $
 
 
 x + y = 7
+
 2x - y = 2
 
 
@@ -82,6 +84,7 @@ x + y = 7
 
 
 3x - y = 1
+
 6x - 2y = 2
 
 
@@ -106,6 +109,7 @@ x + y = 7
 
 
 y = x + 2
+
 y = -x + 2
 
 
