@@ -391,19 +391,6 @@ S = 60
 
 So, there were 60 students and 30 teachers at the school fair.
 
-Classify the following system of equations:
-
-2x + 3y = 5
-
-4x + 6y = 10
-
-Answer: Infinitely many solutions
-
-Divide the second equation by 2:
-2x + 3y = 5
-
-Now both equations are identical, which means they represent the same line. Therefore, there are infinitely many solutions as the lines overlap completely.
-
 
 
 ## Lesson 7-4: Elimination Using Multiplication
